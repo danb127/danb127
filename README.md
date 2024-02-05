@@ -52,5 +52,6 @@ I balance engineering with the creativity of acting and modeling!
 </p>
 
 ### 📄 View My Resume
-Resume.pdf
+[Download or View My Resume Here](Resume.pdf)
+
 
