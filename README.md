@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">Welcome! I'm Daniel Baker 🌟</h1>
+<h1 align="center">Welcome! I'm Daniel :smile:</h1>
 <h2 align="center">A Multifaceted Innovator in Tech, Fitness, and Creativity</h2>
 
 <div align="center">
