@@ -20,7 +20,7 @@
 ---
 
 ### 👨‍💻 About Me:
-Diving deep into the realms of Computer Engineering and Computer Science at Western Michigan University, I'm on a spirited journey to blend innovation with creativity. Balancing a rigorous academic load with a dynamic role in research and development, I'm sculpting my future, one line of code and circuit at a time. Currently, I'm navigating the complexities of System Programming and exploring the boundless potentials of Microcontroller Applications, aiming to graduate in December 2024 with a wealth of knowledge and hands-on experience.
+Diving deep into the realms of Computer Engineering and Computer Science at Western Michigan University, I'm on a journey to blend innovation with creativity. Sculpting my future, one line of code and circuit at a time. Currently navigating classes such as Systems Programming and exploring the boundless potentials of Microcontroller Applications, and Computer Architecture. Aiming to graduate in December 2024 with plenty of knowledge and hands-on experience.
 
 ### 🛠️ I'm Currently:
 - **Designing a 9-Bit Processor:** A testament to my passion for hardware design and digital logic.
@@ -33,7 +33,7 @@ Diving deep into the realms of Computer Engineering and Computer Science at West
 - **Creative Coding:** Merging technology with art to express my unique perspective and innovative ideas.
 
 ### 💡 Fun Fact:
-I balance the precision of engineering with the creativity of acting and modeling, embodying a rare blend of analytical brilliance and artistic flair. Yes, I have the 'drip' in both tech and style!
+I balance engineering with the creativity of acting and modeling!
 
 ### 📫 Reach Me:
 - **Email:** danielbakerr127@gmail.com
@@ -41,9 +41,7 @@ I balance the precision of engineering with the creativity of acting and modelin
 
 ### 🚀 Languages and Tools:
 
-<div align="left">
-  <!-- Icons for various languages and tools -->
-</div>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ### 📈 My Stats:
 
