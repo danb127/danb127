@@ -51,3 +51,6 @@ I balance engineering with the creativity of acting and modeling!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danb127&" alt="danb127" align="center" />
 </p>
 
+### 📄 View My Resume
+Resume.pdf
+
