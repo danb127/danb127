@@ -1,3 +1,8 @@
+<p align="center">
+  <img src=https://68.media.tumblr.com/60cff53ea7f8edde39035b21bb0cb158/tumblr_ollppr4qps1so18vqo1_540.gif />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Daniel Baker</h1>
 <h3 align="center">A passionate software/hardware engineer</h3>
 
