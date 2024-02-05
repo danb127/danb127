@@ -54,3 +54,5 @@ I balance engineering with the creativity of acting and modeling!
 [Download or View My Resume Here](Resume.pdf)
 
 
+github contribution grid snake animation
+
