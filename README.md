@@ -53,4 +53,7 @@ I balance engineering with the creativity of acting and modeling!
 ### 📄 View My Resume
 [Download or View My Resume Here](Resume.pdf)
 
+<p align="center">
+  <img src=[https://68.media.tumblr.com/60cff53ea7f8edde39035b21bb0cb158/tumblr_ollppr4qps1so18vqo1_540.gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg />
+</p>
 
