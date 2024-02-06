@@ -29,7 +29,7 @@ Diving deep into the realms of Computer Engineering and Computer Science at West
 
 ### 🌱 I'm Exploring:
 - **Advanced Algorithm Design:** To enhance my problem-solving arsenal and optimize computational efficiency.
-- **Creative Coding:** Merging technology with art to express my unique perspective and innovative ideas.
+- **Creative Implementations of Skills:** Merging my background of technology along with my hobbies and other skills to express my unique perspective and innovative ideas.
 
 ### 💡 Fun Fact:
 I balance engineering with the creativity of acting and modeling!
