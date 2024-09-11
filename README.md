@@ -32,8 +32,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danb127&" alt="danb127" align="center" />
 </p>
 
-### 📄 View My Resume
-[Download or View My Resume Here](Resume.pdf)
 
 <p align="center">
   <img src=https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg />
