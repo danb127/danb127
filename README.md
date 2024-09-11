@@ -16,24 +16,6 @@
   </p>
 </div>
 
----
-
-### 👨‍💻 About Me:
-Diving deep into the realms of Computer Engineering and Computer Science at Western Michigan University, I'm on a journey to blend innovation with creativity. Sculpting my future, one line of code and circuit at a time. Currently navigating classes such as Systems Programming and exploring the boundless potentials of Microcontroller Applications, and Computer Architecture. Aiming to graduate in December 2024 with plenty of knowledge and hands-on experience.
-
-### 🛠️ I'm Currently:
-- **Designing a 9-Bit Processor:** A testament to my passion for hardware design and digital logic.
-- **Mastering System Programming & Embedded Systems:** Expanding my software craftsmanship with a keen focus on efficiency and reliability.
-- **Contributing to R&D at ZF:** Where I apply my theoretical knowledge to real-world challenges, driving innovations in automotive technology.
-- **Championing Fitness:** As a testament to my discipline and dedication, I push my limits at the gym daily, embodying strength and resilience.
-
-### 🌱 I'm Exploring:
-- **Advanced Algorithm Design:** To enhance my problem-solving arsenal and optimize computational efficiency.
-- **Creative Implementations of Skills:** Merging my background of technology along with my hobbies and other skills to express my unique perspective and innovative ideas.
-
-### 💡 Fun Fact:
-I balance engineering with the creativity of acting and modeling!
-
 ### 📫 Reach Me:
 - **Email:** danielbakerr127@gmail.com
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/danb127)
