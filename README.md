@@ -57,27 +57,36 @@
 
 ### 🧠 About Me
 
-- 🔧 I build things that talk to hardware — CAN bus tools, brake system testers, PLC simulators
-- 🖥️ Currently daily-driving **NixOS** and ricing **Hyprland** (recovering i3 user)
-- 🏠 Running a Raspberry Pi homelab held together by Tailscale and spite
-- 🎌 Anime in the background, Regular Show on repeat
-- 📫 **danielbakerr127@gmail.com**
-
+- I build things that talk to hardware — CAN bus tools, brake system testers, PLC simulators
+- Currently daily-driving **EndeavourOS** and ricing **Hyprland** (recovering i3 user)
+- Running a Raspberry Pi homelab held together by Tailscale and spite
+- Anime nerd
+- Bench record holder in the state of Colorado [**NASA Colorado State Meet**](https://www.openpowerlifting.org/m/nasa/2604)
 ---
 
 ### 🛠️ Languages & Tools
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,bash,nix&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,python,java,js,bash,nix&theme=dark" />
 </p>
 
 **Frameworks & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,blazor,threejs,nodejs&theme=dark" />
-  <img src="https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=dotnet,threejs,nodejs&theme=dark" />
   <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+**Industrial Automation & Controls**
+<p>
+  <img src="https://img.shields.io/badge/Studio_5000-006F3C?style=for-the-badge&logo=rockwellautomation&logoColor=white" />
+  <img src="https://img.shields.io/badge/FactoryTalk_Optix-CC0000?style=for-the-badge&logo=rockwellautomation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Allen--Bradley-006F3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ladder_Logic%20%2F%20IEC_61131--3-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPC_UA-0076A8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modbus-B02A2A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SCADA%20%2F%20HMI-512BD4?style=for-the-badge" />
 </p>
 
 **Embedded & Hardware**
@@ -91,14 +100,31 @@
 
 **Environment**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,nixos,git,docker,neovim,vscode,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,nix,matlab,git,docker,neovim,vscode,visualstudio&theme=dark" />
   <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black" />
-  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🏢 Clarity Ventures
+
+Solo-operated holding company over two brands. I build and run the platform, infrastructure, and the autonomous agent system that handles daily operations.
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Clarity Performance** | Fitness coaching brand — training, nutrition, habit change. I own the full platform: site, payments, email automation, and content pipeline | TypeScript · Next.js · Stripe |
+| **ClarityStack** | Tech & advisory arm — websites, lead-gen systems, and ops infrastructure for non-technical professionals | TypeScript · Next.js · Vercel |
+| **Agent Operations** | Multi-agent system where specialized agents (content, finance, analytics, outbound, design) run on schedule, write to shared state, and handle recurring business operations end to end | Python · Linux · cron |
+| **Retrieval Layer** | Semantic memory over the knowledge base — episodic storage with decay, retrieval scoring, and confidence tracking so agents surface context without reading everything | RAG · embeddings · Python |
+| **Knowledge Base** | Structured Markdown/LaTeX corpus acting as shared source-of-truth state across every agent | Git · Obsidian · TeX |
+| **Lead Generation** | Prospect sourcing, enrichment, and grading pipeline feeding both brands | Python |
+| **Observability** | Uptime, telemetry, and debug monitoring across services | Python · Linux |
+
+> Private source — happy to walk through the architecture on request.
+
+---
+
+### 🚀 Open Source Projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -113,21 +139,14 @@
 
 ### 📈 Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danb127&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=danb127&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danb127&show_icons=true&locale=en&layout=compact" alt="danb127" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danb127&show_icons=true&locale=en" alt="danb127" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danb127&" alt="danb127" align="center" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=danb127&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danb127&theme=radical&no-frame=true&column=7&margin-w=8" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danb127/danb127/output/github-contribution-grid-snake-dark.svg" />
+  <img src=https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg />
 </p>
 
 <p align="center">
