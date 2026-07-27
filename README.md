@@ -1,8 +1,4 @@
 <p align="center">
-  <img src=https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/danb127/danb127/main/assets/header.gif" width="540" />
 </p>
 
