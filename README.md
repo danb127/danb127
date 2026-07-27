@@ -52,7 +52,7 @@
 
 **Embedded & Hardware**
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,stmicroelectronics&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Xilinx_Artix--7-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" />
