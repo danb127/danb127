@@ -140,8 +140,6 @@ Solo-operated holding company over two brands. I build and run the platform, inf
 ### 📈 Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danb127&show_icons=true&locale=en&layout=compact" alt="danb127" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api?username=danb127&show_icons=true&locale=en" alt="danb127" align="center" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danb127&" alt="danb127" align="center" />
 </p>
 
