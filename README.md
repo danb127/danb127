@@ -29,12 +29,12 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cs,python,java,js,bash,nix&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,python,ts,js,bash,nix&theme=dark" />
 </p>
 
 **Frameworks & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,threejs,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,threejs,nodejs,nextjs&theme=dark" />
   <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
