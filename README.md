@@ -61,7 +61,7 @@
 
 **Environment**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,nix,matlab,git,docker,neovim,vscode,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,nix,endeavouros,matlab,git,docker,neovim,vscode,visualstudio&theme=dark" />
   <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black" />
 </p>
 
