@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to my Realm 🌆</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=Embedded+systems+%2F+firmware+engineer;C%2C+C%2B%2B%2C+C%23+%2F+.NET%2C+Python;CAN+bus%2C+STM32%2C+FPGAs%2C+and+Raspberry+Pis;NixOS+enjoyer.+Hyprland+ricer.;OOOOHHHH!!!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=800&color=8E2DE2&center=true&vCenter=true&width=700&lines=Computer+engineer;C%2C+C%23+%2F+.NET%2C+Python%2C+TypeScript;Studio+5000+%E2%80%A2+FactoryTalk+Optix+%E2%80%A2+SCADA;CAN+bus%2C+STM32%2C+FPGAs%2C+and+Raspberry+Pis;I+build+AI+agents+that+run+a+real+business;EndeavourOS+enjoyer.+Hyprland+ricer.;Colorado+state+bench+record+holder+%F0%9F%8F%8B%EF%B8%8F;Anime+in+one+tab%2C+Clarity+in+the+other;Automating+myself+out+of+a+job" />
 </p>
 
 <p align="center">
