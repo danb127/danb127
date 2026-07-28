@@ -23,9 +23,11 @@
 - Running a Raspberry Pi homelab held together by Tailscale and spite
 - Anime nerd
 - Bench record holder in the state of Colorado [**NASA Colorado State Meet**](https://www.openpowerlifting.org/m/nasa/2604)
+- I am always looking to learn, frequently dealing with imposter syndrome because I'd prefer that everyone in my room have something to teach me.
 ---
 
 ### 🛠️ Languages & Tools
+I may not be the best, but here are some of the technologies I have touch/used. This considers University time, Internships and Jobs, and Personal Endeavors. I'd rather be well-versed and know when to apply certain technologies rather than be a subject matter expert in one domain.
 
 **Languages**
 <p>
